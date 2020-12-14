@@ -6,4 +6,4 @@ Add an input.json or use the existing input.json file in the StreamingAssets fol
 
 Open the project in a folder where the read and write permissions are not restricted.
 
-The project was developed using Unity 2017.2 but feel free to open it with other versions as it is not version dependent.
+The project was developed using Unity 2017.2 but feel free to open it with other versions since it is not version dependent.
